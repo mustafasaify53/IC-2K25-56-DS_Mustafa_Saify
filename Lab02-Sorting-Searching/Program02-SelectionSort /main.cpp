@@ -1,7 +1,7 @@
 #include <iostream.h>
 #include <conio.h>
 
-#define MAX 1000
+#define MAX 1000 
 
 int main() {
     int arr[MAX];
