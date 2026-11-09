@@ -1,7 +1,7 @@
 # Lab01 – Introduction to Arrays
 
 **Course:** IC-307D Data Structures and Algorithms Lab  
-**Student:** Naman Pahuja Roll No.: IC2K2558  
+**Student:** Mustafa Saify Roll No.: IC2K2556  
 
 ---
 
