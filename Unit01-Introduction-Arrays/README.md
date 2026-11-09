@@ -1,4 +1,4 @@
-# Lab01 – Introduction to Arrays
+# Unit01 – Introduction to Arrays
 
 **Course:** IC-307D Data Structures and Algorithms Lab  
 **Student:** Mustafa Saify Roll No.: IC2K2556  
